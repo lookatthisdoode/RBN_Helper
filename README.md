@@ -1,5 +1,6 @@
-# RBR Online Racing  
-Live online racing support for Richard Burns Rally (RSF version).
+# RBN Helper Plugin
+Enables live online racing functionality for Richard Burns Rally (RSF version).
+Link to the source: https://www.rbrlover.cn/
 
 ## How to Install  
 1. Move Plugins folder into the root folder of your Richard Burns Rally game.
